@@ -22,7 +22,7 @@ To install `debtool` from git repository:
     sudo install debtool /usr/local/bin
     sudo install -m 0644 debtool-completion /etc/bash_completion.d/debtool
 
-## Requirements
+### Requirements
 
 Ensure that the following package is installed on your system:
 
